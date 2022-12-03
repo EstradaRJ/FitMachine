@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FitMachine</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Scan</string>
+    <string name="title_notifications">News</string>
+    implementation 'com.journeyapps:zxing-android-embedded:4.2.0'
+</resources>
